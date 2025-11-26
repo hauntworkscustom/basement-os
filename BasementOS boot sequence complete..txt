@@ -1,0 +1,15 @@
+BasementOS boot sequence: complete.
+
+Network: isolated  
+Processes: stable  
+Ghost Daemon: dormant  
+Omen Monitor: armed  
+Threat Surface: shifting
+
+The basement is quiet, but the logs disagree.  
+Something moved between timestamps.  
+Something wrote to a directory you don’t remember creating.
+
+Run `ghost --listen` to intercept the next whisper.  
+Run `omen --scan` for anomalous activity.  
+Run `basement --awake` only if you're ready.
